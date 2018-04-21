@@ -1,2 +1,2 @@
 # hello-word-by-readw0lf001
-this is my first github repository
+Hi! I'm redw0lf,this is my second github repository.
